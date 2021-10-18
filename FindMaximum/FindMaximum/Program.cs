@@ -4,7 +4,7 @@ namespace FindMaximum
 {
     class Program
     {
-        public float FindMaximumFloat(float first, float second, float third)
+        public string FindMaximumString(string first, string second, string third)
         {
             if (first.CompareTo(second) > 0 && first.CompareTo(third) > 0)
             {
@@ -21,20 +21,19 @@ namespace FindMaximum
             else
             {
                 Console.WriteLine("All three having same number");
-                return -1;
+                return default;
             }
         }
-
-
-
-
 
         static void Main(string[] args)
         {
             Program obj = new Program();
-            Console.WriteLine("Maximum value is : " + obj.FindMaximumFloat(89.2f, 25.43f, 155.85f));
+            Console.WriteLine("Maximum value is : " + obj.FindMaximumString("Apple", "Mango", "Guava"));
 
             Console.ReadLine();
         }
+
+
+
     }
 }
