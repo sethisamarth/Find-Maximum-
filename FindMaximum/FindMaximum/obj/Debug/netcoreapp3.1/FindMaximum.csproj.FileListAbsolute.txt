@@ -1,0 +1,14 @@
+C:\Users\Lenovo\Desktop\Find maximum problem\FindMaximum\FindMaximum\bin\Debug\netcoreapp3.1\FindMaximum.exe
+C:\Users\Lenovo\Desktop\Find maximum problem\FindMaximum\FindMaximum\bin\Debug\netcoreapp3.1\FindMaximum.deps.json
+C:\Users\Lenovo\Desktop\Find maximum problem\FindMaximum\FindMaximum\bin\Debug\netcoreapp3.1\FindMaximum.runtimeconfig.json
+C:\Users\Lenovo\Desktop\Find maximum problem\FindMaximum\FindMaximum\bin\Debug\netcoreapp3.1\FindMaximum.runtimeconfig.dev.json
+C:\Users\Lenovo\Desktop\Find maximum problem\FindMaximum\FindMaximum\bin\Debug\netcoreapp3.1\FindMaximum.dll
+C:\Users\Lenovo\Desktop\Find maximum problem\FindMaximum\FindMaximum\bin\Debug\netcoreapp3.1\FindMaximum.pdb
+C:\Users\Lenovo\Desktop\Find maximum problem\FindMaximum\FindMaximum\obj\Debug\netcoreapp3.1\FindMaximum.csproj.AssemblyReference.cache
+C:\Users\Lenovo\Desktop\Find maximum problem\FindMaximum\FindMaximum\obj\Debug\netcoreapp3.1\FindMaximum.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Lenovo\Desktop\Find maximum problem\FindMaximum\FindMaximum\obj\Debug\netcoreapp3.1\FindMaximum.AssemblyInfoInputs.cache
+C:\Users\Lenovo\Desktop\Find maximum problem\FindMaximum\FindMaximum\obj\Debug\netcoreapp3.1\FindMaximum.AssemblyInfo.cs
+C:\Users\Lenovo\Desktop\Find maximum problem\FindMaximum\FindMaximum\obj\Debug\netcoreapp3.1\FindMaximum.csproj.CoreCompileInputs.cache
+C:\Users\Lenovo\Desktop\Find maximum problem\FindMaximum\FindMaximum\obj\Debug\netcoreapp3.1\FindMaximum.dll
+C:\Users\Lenovo\Desktop\Find maximum problem\FindMaximum\FindMaximum\obj\Debug\netcoreapp3.1\FindMaximum.pdb
+C:\Users\Lenovo\Desktop\Find maximum problem\FindMaximum\FindMaximum\obj\Debug\netcoreapp3.1\FindMaximum.genruntimeconfig.cache
